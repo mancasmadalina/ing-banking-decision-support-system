@@ -1,9 +1,9 @@
 #install.packages("readxl") 
 
 library(readxl)
-conturi <- read_excel("C:/Users/Admin/Desktop/SSD_Banca_Proiect.xlsx", sheet = "Conturi")
-tranzactii <- read_excel("C:/Users/Admin/Desktop/SSD_Banca_Proiect.xlsx", sheet = "Tranzactii")
-credite <- read_excel("C:/Users/Admin/Desktop/SSD_Banca_Proiect.xlsx", sheet = "Credite")
+conturi <- read_excel("C:/Users/Admin/Desktop/ING_Bank_Decision_Support_System.xlsx", sheet = "Conturi")
+tranzactii <- read_excel("C:/Users/Admin/Desktop/ING_Bank_Decision_Support_System.xlsx", sheet = "Tranzactii")
+credite <- read_excel("C:/Users/Admin/Desktop/ING_Bank_Decision_Support_System.xlsx", sheet = "Credite")
 
 par(mfrow = c(2, 2))  
 
