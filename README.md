@@ -9,7 +9,7 @@ data/
    ING_Bank_Decision_Support_System.accdb
 │
 scripts/
- ING_Bank_Decision_Support_System.accdb.R
+ ING_Bank_Decision_Support_System.R
 │
 report/
    ING_project_report.docx
